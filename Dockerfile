@@ -1,7 +1,7 @@
 FROM buildpack-deps:jessie
 
 # ----------------------------------------------------------------------------
-# ruby 2.3 from https://github.com/docker-library/ruby/blob/master/2.3/Dockerfile
+# ruby 2.3 from https://github.com/docker-library/ruby/blob/master/2.3/Dockerfile ###
 # ----------------------------------------------------------------------------
 
 ENV RUBY_MAJOR 2.3
